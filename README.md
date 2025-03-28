@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mohamed Khalaf<br>📱 Software Engineer @ Bsmart | 🚀 Flutter Expert | 🔧 Mobile App Developer<br><br>I build high-performance, scalable mobile applications with Flutter. Passionate about crafting seamless user experiences and solving complex problems through clean, efficient code.<br><br>🔹 Currently: Developing innovative solutions at Bsmart<br>🔹 Portfolio: portfolio-vert-iota-62.vercel.app<br>🔹 Focus: Cross-platform apps, state management, and UI/UX excellence<br><br>I thrive in collaborative environments where technology meets creativity to deliver exceptional results.
+Hi, I'm Mohamed Khalaf<br>📱 Software Engineer @ Bsmart | 🚀 Flutter Expert | 🔧 Mobile App Developer<br><br>I build high-performance, scalable mobile applications with Flutter. Passionate about crafting seamless user experiences and solving complex problems through clean, efficient code.<br><br>🔹 Currently : Developing innovative solutions at Bsmart<br>🔹 Portfolio : https://portfolio-vert-iota-62.vercel.app/ <br>🔹 Focus : Cross-platform apps, state management, and UI/UX excellence<br><br>I thrive in collaborative environments where technology meets creativity to deliver exceptional results.
 
 
 ## 🌐 Socials:
